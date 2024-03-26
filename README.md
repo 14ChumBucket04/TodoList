@@ -15,7 +15,7 @@ This is a simple command-line Todo List application written in Java. It allows u
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/14ChumBucket04/java-todo-list.git
+    git clone https://github.com/14ChumBucket04/TodoList.git
     ```
 
 2. **Compile the Program:**
